@@ -27,7 +27,6 @@ public class DownloadTask implements Callable<String> {
 		return url.substring(slash+1);
 	}
 
-	@Override
 	public String call() {
 		// TODO Auto-generated method stub
 		System.out.println("Starting to download "+this.url);

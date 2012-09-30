@@ -7,8 +7,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>01</name>
-  <url>http://maven.apache.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -27,4 +25,6 @@
     	<version>1.3.2</version>
     </dependency>
   </dependencies>
+  <name>Homework 3</name>
+  <description>Homework 3 for ZT-JF course. Done by Karl-Aksel Puulmann</description>
 </project>
